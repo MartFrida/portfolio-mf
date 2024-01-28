@@ -1,7 +1,6 @@
 import React from "react";
 // images
 import Logo from "../assets/logo-m.svg";
-import { Link } from "react-scroll";
 
 const Header = () => {
   return (
@@ -9,12 +8,12 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
           {/* logo */}
-          <Link href="/">
+          <a target="_blank" href="/">
             <img src={Logo} alt=""></img>
-          </Link>
+          </a>
 
           {/* button */}
-          <Link className="btn px-6 py-3 rounded-full" href="https://t.me/maryfryda">Work with me</Link>
+          <a className="btn px-6 py-3 rounded-full" href="https://t.me/maryfryda">Work with me</a>
         </div>
       </div>
     </header>

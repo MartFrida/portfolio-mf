@@ -30,33 +30,6 @@ const Banner = () => {
             >
               MARY <span>FRYDA</span>
             </motion.h1>
-            {/* <motion.div
-              variants={fadeIn("up", 0.4)}
-              initial="hidden"
-              whileInView={"show"}
-              viewport={{ once: false, amount: 0.7 }}
-              className="mb-6 text-[36px] lg:text-[60px] uppercase font-secondary font-semibold leading-[1]"
-            >
-              <span className="text-white mr-4">I am a</span>
-              <TypeAnimation
-                sequence={["frontend developer", 2000]}
-                speed={300}
-                className="text-fuchsia-800"
-                wrapper="span"
-                repeat={Infinity}
-              />
-            </motion.div> */}
-            {/* <motion.p
-              variants={fadeIn("up", 0.5)}
-              initial="hidden"
-              whileInView={"show"}
-              viewport={{ once: false, amount: 0.7 }}
-              className="mb-8  lg-mx-0"
-            >
-              Self-taught the basics of programming and ranked in the top 15% in
-              the knowledge of JS out of 2.3M people who took the skill
-              assessment test on Linkedin.
-            </motion.p> */}
             <motion.div
               variants={fadeIn("up", 0.6)}
               initial="hidden"
@@ -64,16 +37,16 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="flex  items-center gap-x-6 mx-auto mb-12"
             >
-              <Link className="btn px-6 py-3 rounded-full" href="https://t.me/maryfryda" target="_blank" rel="noreferrer">
+              <a className="btn px-6 py-3 rounded-full" href="https://t.me/maryfryda" target="_blank" rel="noreferrer">
                 Contact me
-              </Link>
+              </a>
 
-              <Link href="https://github.com/MartFrida"
+              <a href="https://github.com/MartFrida"
                 target="_blank"
                 className="text-gradient btn-link" rel="noreferrer"
               >
                 My GitHub
-              </Link>
+              </a>
             </motion.div>
             {/* socials */}
             <motion.div
