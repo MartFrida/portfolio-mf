@@ -1,1 +1,2 @@
-![my portfolio](https://img.freepik.com/free-photo/earth-seen-from-space_23-2150528643.jpg?w=360&t=st=1706448495~exp=1706449095~hmac=4084a12504cb59e41a1bd2aa430b2db3d677f137ef75e471ca643f8861b5264b)
+<img width="729" alt="Screenshot 2024-01-28 153337" src="https://github.com/MartFrida/portfolio-mf/assets/32392607/f77f2ec0-60d6-4f4b-8a39-ee3422372785">
+
