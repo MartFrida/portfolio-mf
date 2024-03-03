@@ -16,18 +16,18 @@ const works = [
     linkGitLub: "https://github.com/MartFrida/project-CodeCrafters",
   },
   {
+    name: "Articles Blog",
+    description:
+      "Using React, JS, Reduxjs, axios, RTKQ, mockapi, Tilewind CSS, ",
+    linkNetlify: "https://articles-blogue.netlify.app/",
+    linkGitLub: "https://github.com/MartFrida/articles",
+  },
+  {
     name: "Rental Car App",
     description:
       "This application is for the car rental service in Ukraine. Used React, Redux, JS, axios, vite",
     linkNetlify: "https://rental-car-for-you.netlify.app/",
     linkGitLub: "https://github.com/MartFrida/rental-car-for-you",
-  },
-  {
-    name: "Bicicleta shop",
-    description:
-      "Using React, Typescript, HTML/CSS, react-router, json, Vite.js, svg, react-router-dom, bootstrap, React-bootstrap, react hooks",
-    linkNetlify: "https://bicicletas-shop.netlify.app/",
-    linkGitLub: "https://gitlab.com/mart.frida/bicicletashop",
   },
   {
     name: "Things store",
