@@ -19,8 +19,8 @@ const works = [
     name: "Articles Blog",
     description:
       "Using React, JS, Reduxjs, axios, RTKQ, mockapi, Tilewind CSS, ",
-    linkNetlify: "https://articles-blogue.netlify.app/",
-    linkGitLub: "https://github.com/MartFrida/articles",
+    linkNetlify: "https://merry-gaufre-53e833.netlify.app/",
+    linkGitLub: "https://github.com/MartFrida/articles-frontend",
   },
   {
     name: "Rental Car App",
