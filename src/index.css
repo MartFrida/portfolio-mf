@@ -40,11 +40,15 @@
   }
 
   .h2 {
-    @apply font-primary text-[32px] mb-6 tracking-[10%] uppercase;
+    @apply font-primary text-[2rem] mb-6 tracking-[10%] uppercase;
   }
 
   .h3 {
-    @apply font-primary font-semibold text-[26px] mb-6 leading-[46px];
+    @apply font-primary font-semibold text-[1.5rem] mb-6 leading-8;
+  }
+
+  .h4 {
+    @apply font-primary font-semibold text-[1.2rem] mb-6 leading-6;
   }
 
   .btn {
@@ -52,11 +56,11 @@
   }
 
   .btn-sm {
-    @apply h-[48px] px-6 text-sm;
+    @apply h-[3rem] px-6 text-sm;
   }
 
   .btn-lg {
-    @apply h-[56px] px-10 text-base;
+    @apply h-[3.5rem] px-10 text-base;
   }
 
   .btn-link {

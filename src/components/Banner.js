@@ -12,7 +12,7 @@ import { fadeIn } from "../variants";
 const Banner = () => {
   return (
     <section
-      className=" min-h-[85vh] lg:min-h-[78vh]"
+      className=" min-h-[85vh] md:min-h-full"
       id="home"
     >
       <div className="container mx-auto">
@@ -73,9 +73,9 @@ const Banner = () => {
             variants={fadeIn("down", 0.5)}
             initial="hidden"
             whileInView={"show"}
-            className="hidden lg:flex flex-1 max-w-[30vw] lg:max-w-482px"
+            className="hidden lg:flex flex-1 max-w-[30vw] "
           >
-            <img src={Image} alt="avatar" className=" xl:w-80 xl:mb-12" />
+            <img src={Image} alt="avatar" className=" xl:w-80 xl:mb-12 lg:size-4/5 " />
           </motion.div>
         </div>
       </div>
