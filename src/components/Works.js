@@ -24,7 +24,7 @@ const Works = () => {
 
   return (
     <div className="container xl:max-h-[90vh] lg:max-h-[90vh] max-w-[100vw] m-2 md:min-h-full" id="services">
-      <div className="flex flex-col md:flex-row xl:mt-3 gap-12  overflow-y-auto md:overflow-visible sm:gap-0">
+      <div className="flex flex-col md:flex-row xl:mt-3 md:gap-12  overflow-y-auto md:overflow-visible sm:gap-0">
         {/* text & image */}
         <motion.div
           variants={fadeIn("right", 0.3)}
