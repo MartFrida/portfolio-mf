@@ -12,7 +12,7 @@ import { fadeIn } from "../variants";
 const Banner = () => {
   return (
     <section
-      className=" min-h-[85vh] "
+      className=" min-h-[85vh] items-center"
       id="home"
     >
       <div className="container mx-auto">
@@ -24,7 +24,7 @@ const Banner = () => {
               initial="hidden"
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
-              className="text-[55px] font-bold leading-[0.8] lg:text-[110px]"
+              className="text-[55px] font-bold leading-[0.8] lg:text-[110px] mb-16"
             >
               MARY <span>FRYDA</span>
             </motion.h1>
@@ -52,7 +52,7 @@ const Banner = () => {
               initial="hidden"
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
-              className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0"
+              className="flex text-[2rem] gap-x-6 max-w-max mx-auto lg:mx-0"
             >
               <a href="https://github.com/MartFrida" target="_blank" rel="noreferrer">
                 <FaGithub />

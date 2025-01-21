@@ -44,11 +44,11 @@ const Works = () => {
           initial={isMobile ? "active" : "hidden"}
           whileInView={"show"}
           viewport={{ once: false, amount: 0.3 }}
-          className="flex-1 max-h-[90vh] p-2 "
+          className="flex-1 md:max-h-[90vh] p-2 md:overflow-x-hidden md:overflow-y-auto"
         >
           {/* service list */}
 
-          <div className="sm:min-h-max sm:overflow-visible md:overflow-x-hidden md:overflow-y-scroll md:max-h-[90%] ">
+          <div className="sm:min-h-max sm:overflow-visible   ">
             {dataWorks.map((service, index) => {
 
               const { name, description, linkNetlify, linkGitLub, deploy } = service;
