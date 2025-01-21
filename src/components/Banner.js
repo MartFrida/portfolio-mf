@@ -12,7 +12,7 @@ import { fadeIn } from "../variants";
 const Banner = () => {
   return (
     <section
-      className=" min-h-[85vh] md:min-h-full"
+      className=" min-h-[85vh] "
       id="home"
     >
       <div className="container mx-auto">
