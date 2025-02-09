@@ -25,7 +25,7 @@ export const dataWorks = [
     name: "Rental Car App",
     description:
       "This application is for the car rental service in Ukraine. Used React, Redux, JS, axios, vite",
-    linkNetlify: "https://rental-car-for-you.netlify.app/",
+    linkNetlify: "https://fantastic-faun-54a216.netlify.app/",
     linkGitLub: "https://github.com/MartFrida/rental-car-for-you",
   },
   {
