@@ -1,5 +1,12 @@
 export const dataWorks = [
   {
+    name: "Centro de Entrenadores Personales",
+    description:
+      "Utilizing React, JS, Tailwind, Netlify",
+    deploy: "https://entrenador-personal.netlify.app/",
+    linkGitLub: "https://github.com/MartFrida/personal-trainer",
+  },
+  {
     name: "Backend for Articles Blog, Authorization",
     description:
       "Utilizing MongoDB, Mongoose, JOI, Express, Cloudinary, Morgan, Multer, and Bcrypt for development, with deployment handled on Render.",
@@ -20,13 +27,19 @@ export const dataWorks = [
     linkNetlify: "https://martfrida.github.io/project-CodeCrafters/",
     linkGitLub: "https://github.com/MartFrida/project-CodeCrafters",
   },
-
   {
     name: "Rental Car App",
     description:
       "This application is for the car rental service in Ukraine. Used React, Redux, JS, axios, vite",
-    linkNetlify: "https://fantastic-faun-54a216.netlify.app/",
+    linkNetlify: "https://rentalcar-service.netlify.app/",
     linkGitLub: "https://github.com/MartFrida/rental-car-for-you",
+  },
+  {
+    name: "Book Palace",
+    description:
+      "Utilizing React, JS, Tailwind, Netlify, GoogleDrive, EmailJS",
+    deploy: "https://book-palace.netlify.app/",
+    linkGitLub: "https://github.com/MartFrida/books-club",
   },
   {
     name: "Things store",
