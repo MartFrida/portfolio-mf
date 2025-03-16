@@ -17,7 +17,7 @@ export const dataWorks = [
     name: "Articles Blog with Authorization",
     description:
       "Utilizing 'Backend for Articles Blog', and React, JS, Reduxjs, axios, redux-persist, react-router-dom, react-hook-form, TilewindCSS for development, with deployment handled on Netlify",
-    linkNetlify: "article-blog-frontend.netlify.app",
+    linkNetlify: "https://article-blog-frontend.netlify.app/",
     linkGitLub: "https://github.com/MartFrida/articles-frontend",
   },
   {
