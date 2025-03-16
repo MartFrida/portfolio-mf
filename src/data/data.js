@@ -3,7 +3,7 @@ export const dataWorks = [
     name: "Centro de Entrenadores Personales",
     description:
       "Utilizing React, JS, Tailwind, Netlify",
-    deploy: "https://entrenador-personal.netlify.app/",
+    deploy: "https://centroentrenadores.com/",
     linkGitLub: "https://github.com/MartFrida/personal-trainer",
   },
   {
