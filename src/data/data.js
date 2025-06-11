@@ -2,9 +2,9 @@ export const dataWorks = [
   {
     name: "Centro de Entrenadores Personales",
     description:
-      "Utilizing React, JS, Tailwind, Netlify",
-    deploy: "https://centroentrenadores.com/",
-    linkGitLub: "https://github.com/MartFrida/personal-trainer",
+      "Utilizing React, JS, Tailwind, Docker, Node.js, Express, openai, with deployment on Render.",
+    deploy: "https://cieptis-docker.onrender.com/",
+    linkGitLub: "https://github.com/MartFrida/cieptis-docker-junto-deploy",
   },
   {
     name: "Backend for Articles Blog, Authorization",
