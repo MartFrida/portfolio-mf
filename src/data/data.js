@@ -1,5 +1,12 @@
 export const dataWorks = [
   {
+    name: "Academia Internacional de Periodismo-Comunicación Global",
+    description:
+      "This project delivers a modern, responsive, and performance-optimized website built using the latest technologies such as React 19, Vite, TailwindCSS 4, Redux Toolkit, and framer-motion. It also supports dynamic forms using EmailJS.",
+    deploy: "https://acinpecg.com/",
+    linkGitLub: "https://github.com/MartFrida/acinpeg",
+  },
+  {
     name: "Centro de Entrenadores Personales",
     description:
       "Utilizing React, JS, Tailwind, Docker, Node.js, Express, openai, with deployment on Render.",
